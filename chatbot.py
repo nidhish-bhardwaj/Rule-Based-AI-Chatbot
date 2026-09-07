@@ -25,10 +25,10 @@ while True:
     elif user_input in["how are you","how are you?"]:
         print("Chatbot: I'm just a program, but I'm functioning as expected! How can I help you?")
 
-    elif "what is ai" in user_input or "What is artificial intelligence"in user_input:
+    elif "what is ai" in user_input or "what is artificial intelligence"in user_input:
         print("Chatbot: Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans.")
 
-    elif "what is machine learning" in user_input or "What is machine learning?" in user_input:
+    elif "what is ml" in user_input or "what is machine learning?" in user_input:
         print("Chatbot: Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed.") 
 
     elif "how do you work" in user_input or "how do you work?" in user_input:
