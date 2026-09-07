@@ -71,4 +71,4 @@ Make sure Python is installed on your computer.
 ### Step 2: Download or Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/nidhish-bhardwaj/Rule-Based-AI-Chatbot.git
